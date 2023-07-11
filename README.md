@@ -11,3 +11,4 @@ hello
 - [ ] play
 - [ ] sleep
 
+! [peppa.png] (/assets/images/peppa.png)

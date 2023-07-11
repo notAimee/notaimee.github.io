@@ -3,6 +3,6 @@
 ## Readme
 
 hello
-[x] eat
-[x] sleep
-[ ] play
+- [x] eat
+- [x] sleep
+- [ ] play

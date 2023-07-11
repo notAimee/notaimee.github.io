@@ -11,4 +11,4 @@ hello
 - [ ] play
 - [ ] sleep
 
-! [peppa.png]
+<img src="peppa.png" alt="cat" title="cat">

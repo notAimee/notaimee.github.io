@@ -4,5 +4,5 @@
 
 hello
 - [x] eat
-- [x] sleep
 - [ ] play
+- [ ] sleep

@@ -2,4 +2,7 @@
 
 ## Readme
 
-I change from visual code
+hello
+[x] eat
+[x] sleep
+[ ] play
